@@ -1,6 +1,6 @@
 ## Medidor de Tensão Elétrica
 
-Projeto para medição de tensão elétrica, desenvolvido utilizando Arduino, para análise de um sensor óptico que tem como saída um fotodiodo.
+<p align="justify">Projeto para medição de tensão elétrica, desenvolvido utilizando Arduino, para análise de um sensor óptico que tem como saída um fotodiodo.</p>
 
 ## Resultados do Projeto
 
@@ -12,7 +12,7 @@ Projeto para medição de tensão elétrica, desenvolvido utilizando Arduino, pa
 
 - Experimentos realizados 
 
-Considerando o conjunto sensor de campo magnético e circuito com o Arduino, que entrega uma tensão elétrica e recebe uma tensão elétrica, respectivamente
+<p align="justify">Considerando o conjunto sensor de campo magnético e circuito com o Arduino, que entrega uma tensão elétrica e recebe uma tensão elétrica, respectivamente </p>
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Considerando o conjunto sensor de campo magnético e circuito com o Arduino, que
 
 - Resultados em termos gráficos
 
-Considerando que para determinado valor de campo magnético obtido na entrada do sensor haverá um valor de tensão elétrica correspondente na saída. Assim, podemos analisar a eficiência da obtenção da tensão de saída criada com o circuito e o arduino, realizando diversas vezes a medição de tensão para diferentes valores na entrada, e observar se os valores se mantém para os mesmos valores de entrada.
+<p align="justify"> Considerando que para determinado valor de campo magnético obtido na entrada do sensor haverá um valor de tensão elétrica correspondente na saída. Assim, podemos analisar a eficiência da obtenção da tensão de saída criada com o circuito e o arduino, realizando diversas vezes a medição de tensão para diferentes valores na entrada, e observar se os valores se mantém para os mesmos valores de entrada. </p>
 
 <div align="center">
 
@@ -34,5 +34,6 @@ Considerando que para determinado valor de campo magnético obtido na entrada do
 
 </div></br>
 
-Para a Tabela e Gráfico acima, o experimento foi realizado 3 vezes (V1, V2 e V3 correspondem as tensões medidas com o Arduino e H ao campo magnético sentido pelo sensor).
+<p align="justify"> Para a Tabela e Gráfico acima, o experimento foi realizado 3 vezes (V1, V2 e V3 correspondem as tensões medidas com o Arduino e H ao campo magnético sentido pelo sensor).
+</p>
 
