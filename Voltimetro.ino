@@ -1,5 +1,4 @@
 // TÍTULO: Programa Para Medir Tensão CC
-// AUTOR: Ângelo Meneguini
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>                    // Inclui a biblioteca para o display de lcd
