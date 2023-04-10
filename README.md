@@ -37,3 +37,7 @@
 <p align="justify"> Para a Tabela e Gráfico acima, o experimento foi realizado 3 vezes (V1, V2 e V3 correspondem as tensões medidas com o Arduino e H ao campo magnético sentido pelo sensor).
 </p>
 
+##
+<p align = "center">
+Status do Projeto: Concluido :heavy_check_mark:
+</p>
